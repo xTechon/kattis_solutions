@@ -1,0 +1,17 @@
+Notes for Solution:
+https://open.kattis.com/problems/tarifa
+
+- X mB limit
+- carry over
+- N months
+- How many mB available after N+1 months
+
+input:
+X
+N
+P1 = number of mB used in month N = 1 of plan
+p2 = number of mB used in month N = 2 of plan
+p3
+.
+.
+.
