@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    int limit, numMonth, ava, use;
+    int limit=0, numMonth=0, ava=0, use=0;
     cin >> limit >> numMonth;
     int i;
     for (i=0; i < numMonth; i++){
